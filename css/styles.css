@@ -13,8 +13,8 @@ body {
 
 .title {
     text-transform: uppercase;
-    text-align: center;
-    margin-bottom: 20px;
+    text-align: left;
+    /* margin-bottom: 10px; */
     font-size: 36px;
     color: #00B29C;
 }
@@ -67,7 +67,8 @@ ul li h2 {
 .recipe-content {
     text-align: justify;
     text-justify: inter-word;
-    padding: 20px;
+    /* padding: 10px; */
+    margin-bottom: 20px;
 }
 
 .recipe-card a {
